@@ -11,4 +11,7 @@ public class Test {
         }
         System.out.println(s);
     }
+    public static void Test1(int i){
+        System.out.println(i);
+    }
 }
